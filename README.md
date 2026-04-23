@@ -1,5 +1,5 @@
-# mindcheck
-# 🌸 MindCheck — Am I Okay?
+#mindcheck
+#🌸 MindCheck — Am I Okay?
 
 > A gentle, anonymous student stress & wellness tracker
 
